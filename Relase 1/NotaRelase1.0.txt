@@ -1,0 +1,17 @@
+Nesta primeira Release, foram implementadas as seguintes operações:
+
+	- CADASTRAR
+		> Usuário
+		> Administrador
+
+	- ATUALIZAR
+		> Usuário
+		> Administrador
+
+	- VISUALIZAR
+		> Usuário
+		> Administrador
+
+	- DELETAR
+		> Usuário
+		> Administrador
