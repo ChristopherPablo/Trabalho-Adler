@@ -1,0 +1,3 @@
+- Foi adicionado uma nova interface/Layout ao entrar no sistema como um administrador.
+- Um layout também foi desenvolvido para a página de listagem e cadastro de jogos.
+- Foram desenvolvidos funcionalidades de "Deslogar" e "Jogos" no Layout da Página Inicial do Administrador.
