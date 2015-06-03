@@ -1,0 +1,14 @@
+Nesta segunda Release, foram implementadas as seguintes operações (apenas para Administrador):
+
+	- CADASTRAR
+		> Jogo
+		> Compra de Jogo
+
+	- ATUALIZAR
+		> Jogo
+
+	- VISUALIZAR
+		> Jogo
+
+	- DELETAR
+		> Jogo
