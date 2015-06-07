@@ -1,0 +1,3 @@
+Nesta terceira Release, foram implementadas as operações de consulta dos jogos (informa tipo, nome e quantidade).
+
+A página de Usuário foi criada e, nela, adicionado o botão para acessar a página de consulta de jogos, conforme especificado no Documento de Requisitos
