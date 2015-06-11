@@ -1,0 +1,13 @@
+// ------- Ainda existem algumas modificações que foram feitas e não foram relatadas. Ainda estamos trabalhando nisto ------- //
+
+Não há necessidade de registrar mais informações do que "Nome, Telefone e Senha" ao cadastrar qualquer tipo de usuário, uma vez que neste sistema, outros dados seriam inutilizados.
+
+De forma semelhante, não há necessidade de cadastrar algumas informações sobre certos jogos como, por exemplo, as imagens, código de barras, console, data. O cadastro de jogo utilizou a mesma interface com um item para identificar se é para venda ou para locação. Remoção de jogo não faz mais verificação de estoque, por que se deleta-lo o estoque já é automaticamente zerado.
+
+Vale ressaltar, também, que o relatório deste sistema é algo bem simples. Afinal o sistema como um todo não é o sistema principal da locadora. Assim sendo, o relatório trás apenas o tipo de operação realizada, nome do jogo em questão, quantidade (comprado/vendido/alugado) e o subtotal arrecadado/gasto em cada uma destas operações.
+
+Cadastrar e Remover jogos no estoque são atualizados durante a Compra ou Venda dos jogos em questão. Já não é mais possível altera-lo, pois utiliza como base os jogos previamente cadastrados.
+
+Ao registrar a Locação de um jogo já não é mais necessário por a data de empréstimo e devolução, pois o empréstimo poderá ser extendido conforme as normas da locadora. Quando o jogo for devolvido, o sistema irá atualizar o banco de dados. A venda de um jogo não informa mais o nome do cliente que exerceu a compra, uma vez que esta informação não deve ser divulgada neste sistema.
+
+Os relatórios passaram a ser ordenados por Tipo e Nome. O valor arrecadado e gasto totais não são mais demonstrados, uma vez que o relatório não está limitado a uma certa data.
