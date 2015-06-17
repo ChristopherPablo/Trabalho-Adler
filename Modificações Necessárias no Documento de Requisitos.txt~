@@ -10,5 +10,4 @@ Cadastrar e Remover jogos no estoque são atualizados durante a Compra ou Venda 
 
 Ao registrar a Locação de um jogo já não é mais necessário por a data de empréstimo e devolução, pois o empréstimo poderá ser extendido conforme as normas da locadora. Quando o jogo for devolvido, o sistema irá atualizar o banco de dados. A venda de um jogo não informa mais o nome do cliente que exerceu a compra, uma vez que esta informação não deve ser divulgada neste sistema.
 
-
 Os relatórios passaram a ser ordenados por Tipo e Nome. O valor arrecadado e gasto totais não são mais demonstrados, uma vez que o relatório não está limitado a uma certa data.
